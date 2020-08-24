@@ -1,0 +1,69 @@
+10:31:13  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+10:31:13  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+10:31:13  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+10:31:13  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+10:31:17  INFO: wdm.WebDriverManager - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+10:31:17  INFO: wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+10:31:18  INFO: online.Downloader - Downloading https://chromedriver.storage.googleapis.com/84.0.4147.30/chromedriver_mac64.zip
+10:31:20  INFO: online.Downloader - Extracting binary from compressed file chromedriver_mac64.zip
+10:31:20  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/smanem/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+10:31:24  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
+10:31:24  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://awswrkshpalb-1570520390.us-west-2.elb.amazonaws.com:3000
+10:31:35  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - PASSED
+10:31:35  INFO: stepdefinitions.MasterStepDefs - ######### Count of Passed #########
+10:31:35  INFO: stepdefinitions.MasterStepDefs - 1
+10:31:35  INFO: stepdefinitions.MasterStepDefs - ######### Count of passed #########
+10:31:36  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+10:33:11  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+10:33:11  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+10:33:11  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+10:33:11  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+10:33:12  INFO: wdm.WebDriverManager - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+10:33:12  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/smanem/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+10:33:14  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
+10:33:14  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://localhost:3000
+10:33:24  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - PASSED
+10:33:24  INFO: stepdefinitions.MasterStepDefs - ######### Count of Passed #########
+10:33:24  INFO: stepdefinitions.MasterStepDefs - 1
+10:33:24  INFO: stepdefinitions.MasterStepDefs - ######### Count of passed #########
+10:33:25  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+10:40:22  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+10:40:22  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+10:40:22  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+10:40:22  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+10:40:23  INFO: wdm.WebDriverManager - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+10:40:23  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/smanem/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+10:40:26  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
+10:40:26  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://localhost:3000
+10:40:35  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - PASSED
+10:40:35  INFO: stepdefinitions.MasterStepDefs - ######### Count of Passed #########
+10:40:35  INFO: stepdefinitions.MasterStepDefs - 1
+10:40:35  INFO: stepdefinitions.MasterStepDefs - ######### Count of passed #########
+10:40:36  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+12:43:07  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+12:43:07  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+12:43:07  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - FAILED
+12:43:07  INFO: stepdefinitions.MasterStepDefs - ######### Count of FAILED #########
+12:43:07  INFO: stepdefinitions.MasterStepDefs - 1
+12:43:07  INFO: stepdefinitions.MasterStepDefs - ######### Count of Failed #########
+12:43:08  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+12:43:47  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+12:43:47  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+12:43:47  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - FAILED
+12:43:47  INFO: stepdefinitions.MasterStepDefs - ######### Count of FAILED #########
+12:43:47  INFO: stepdefinitions.MasterStepDefs - 1
+12:43:47  INFO: stepdefinitions.MasterStepDefs - ######### Count of Failed #########
+12:43:48  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+12:53:22  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+12:53:22  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+12:53:22  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+12:53:22  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+12:53:22  INFO: wdm.WebDriverManager - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+12:53:22  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/smanem/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+12:53:26  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
+12:53:26  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://localhost:3000
+12:53:39  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - PASSED
+12:53:39  INFO: stepdefinitions.MasterStepDefs - ######### Count of Passed #########
+12:53:39  INFO: stepdefinitions.MasterStepDefs - 1
+12:53:39  INFO: stepdefinitions.MasterStepDefs - ######### Count of passed #########
+12:53:39  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
